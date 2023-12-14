@@ -1,0 +1,8 @@
+package com.kn.bean;
+
+public class Student {
+	int rollNumber;
+	String name;
+	int marks;
+	
+}
